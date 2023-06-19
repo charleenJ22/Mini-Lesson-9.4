@@ -1,6 +1,9 @@
 # Header - README Template.
 
-![Github Logo](https://atg-prod-scalar.s3.amazonaws.com/studentpower/media/MIT-seal-wallpaper-2.png "Github logo - markdown")
+![GithLovepikub Logo](https://img.lovepik.com/element/40094/8777.png_300.png "Lovepik logo - markdown")
+
+<a href="https://img.lovepik.com/element/40094/8777.png_300.png">Internet Png vectors by Lovepik.com</a>
+
 
 >## Table of Contents Example
 * [About the Project](#about_the_project)
