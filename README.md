@@ -25,6 +25,6 @@ Include a list of tools used in the project:
 
 < a class= "anchor" id="contact"></a>
 >## Contact Information
-Charleen Thompson Jennings
+CTJ
 
  
