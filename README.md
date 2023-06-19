@@ -26,7 +26,7 @@ Include a list of tools used in the project:
 
 3.Matplotlib
 
-< a class= "anchor" id="contact"></a>
+<a class= "anchor" id="contact"></a>
 >## Contact Information
 CTJ
 
